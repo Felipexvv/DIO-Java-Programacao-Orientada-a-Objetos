@@ -1,5 +1,9 @@
 package com.balloonsoft.clinical.service;
 
-public class ExameService {
+import com.balloonsoft.clinical.model.Exame;
 
+public class ExameService {
+	void salvarExame(Exame exame){
+		
+	}
 }
