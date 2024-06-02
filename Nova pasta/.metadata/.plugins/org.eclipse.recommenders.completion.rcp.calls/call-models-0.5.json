@@ -1,0 +1,12 @@
+{
+  "C:\\Program Files\\Java\\jre-1.8\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre-1.8\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jre-1.8\\lib\\rt.jar\u0027. Neither fingerprint \u0027f42ada87824f49449a94c5e3ff1e0cbcb3d445af\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\Users\\felip\\Documents\\Cursos Programação\\Dio.me JAVA Santander Curso\\java\\DIO-Java-Programacao-Orientada-a-Objetos\\Nova pasta\\Projeto-Menssegers\\src": {
+    "location": "C:\\Users\\felip\\Documents\\Cursos Programação\\Dio.me JAVA Santander Curso\\java\\DIO-Java-Programacao-Orientada-a-Objetos\\Nova pasta\\Projeto-Menssegers\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\felip\\Documents\\Cursos Programação\\Dio.me JAVA Santander Curso\\java\\DIO-Java-Programacao-Orientada-a-Objetos\\Nova pasta\\Projeto-Menssegers\\src\u0027. Skipped."
+  }
+}
